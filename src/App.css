@@ -1,3 +1,19 @@
+@font-face {
+    font-family: galderglynn;
+    src: url(../src/fonts/galderglynn-font/galderglynn\ titling\ el.otf);
+}
+
+@font-face {
+    font-family: galderglynn-bold;
+    font-weight: 100;
+    src: url(../src/fonts/galderglynn-font/galderglynn\ titling\ bl.otf);
+}
+
+@font-face {
+    font-family: galderglynn-med;
+    font-weight: 800;
+    src: url(../src/fonts/galderglynn-font/galderglynn\ titling\ bk.otf);
+}
 *{
     margin: 0;
     padding: 0;
